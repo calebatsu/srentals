@@ -105,3 +105,34 @@ a {
     color-scheme: dark;
   }
 }
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 2px 3px #ddd;
+}
+
+.input_container {
+  margin-bottom: 20px;
+}
+
+.btn_container {
+  text-align: center;
+}
+
+button{
+  background: #333;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  font-size: 16px;
+
+}
+
+
+
+
